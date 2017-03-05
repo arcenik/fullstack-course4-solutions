@@ -1,0 +1,65 @@
+/* Main styles */
+body {
+  background-color: #F3F3F9;
+}
+a, a:hover, a:active {
+  color: #101010;
+}
+/* Navigation Bar */
+.navbar-default {
+  background-color: #909090;
+  border-radius: 0;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 0;
+  vertical-align: middle;
+}
+.navbar-default .navbar-brand {
+  color: #101010;
+}
+.navbar-brand {
+  margin: 0;
+}
+.navbar p {
+  font-size: 2.5em;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #101010;
+}
+#collapsable-nav {
+  padding: 0;
+  margin: -1px -1px 0;
+}
+ul.navbar-nav {
+  margin: 0;
+  margin: -1px 0 0 0;
+}
+.navbar-nav li {
+  border: black 1px solid;
+  margin: -1px 0 0 0;
+  text-align: center;
+}
+/* Main content */
+.title {
+  font-size: 2em;
+  text-align: center;
+}
+.box {
+  position: relative;
+  padding: 10px;
+}
+.item {
+  background-color: #999999;
+  border: 0;
+  border-radius: 2px;
+}
+.content {
+  padding: 16px 24px;
+  text-align: justify;
+}
+.name {
+  top: 0;
+  text-align: center;
+  font-size: 1.7em;
+  padding: 4px 32px 4px 32px;
+}
