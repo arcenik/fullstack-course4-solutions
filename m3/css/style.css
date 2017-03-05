@@ -40,10 +40,6 @@ ul.navbar-nav {
   text-align: center;
 }
 /* Main content */
-.title {
-  font-size: 2em;
-  text-align: center;
-}
 .box {
   position: relative;
   padding: 10px;
